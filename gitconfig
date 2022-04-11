@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = remi.veltin@gmail.com
+	name = Remi Veltin
